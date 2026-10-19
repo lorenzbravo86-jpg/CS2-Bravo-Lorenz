@@ -6,3 +6,4 @@ This program calculates the total of a fare.
 - Process: Calculates and displays the total price of the fare.
 - Output: Fare price.
 - Includes input validation.
+
